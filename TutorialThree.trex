@@ -15,7 +15,7 @@
     </permissions>
   <context-menu>
    <configure-context-menu-item/>
-</context-menu>
+  </context-menu>
   </dashboard-extension>
   <resources>
     <resource id="name">
