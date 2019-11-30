@@ -1,0 +1,12 @@
+{
+  "name": "tableau-extensions-tutorial-part-three",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mikemooreviz/tableau-extensions-tutorial-part-three",
+  "author": "mikemooreviz <mikemooreviz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
